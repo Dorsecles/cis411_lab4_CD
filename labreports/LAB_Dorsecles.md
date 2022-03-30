@@ -32,4 +32,4 @@ ___
 3. Why would you use a container technology over a virtual machine(VM)?
 > Conatiners are smaller and more efficient because they work fast.
 4. What are some alternatives to Docker for containerized deployments?
-> Hyper-V, Windows Containers, and Artifactory Docker Registry.
+> Hyper-V, Windows Containers, and Artifactory Docker Registry..
